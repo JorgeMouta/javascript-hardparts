@@ -1,4 +1,4 @@
-Frontend Master Javascript Hard-parts. 
+Frontend Masters Javascript Hard-Parts. 
 
 I'll be sharing my solutions for the problems in the js hard-parts courses.
 
@@ -15,3 +15,6 @@ Here's the csbin challegens you will face throughout the courses:
 6. Iterators contains set of completed tasks from http://csbin.io/iterators
 
 Great courses, would recommend if you wish to take your Javascript skills to the next level.
+
+
+PS: I'll be adding the rest of the solutions later.

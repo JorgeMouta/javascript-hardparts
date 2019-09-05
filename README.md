@@ -14,7 +14,6 @@ Here's the csbin challegens you will face throughout the courses:
 5. Promises http://csbin.io/promises
 6. Iterators http://csbin.io/iterators
 
-Great courses, would recommend if you wish to take your Javascript skills to the next level.
+Great courses, recommended if you are looking to take your JavaScript skills to the next level.
 
-
-PS: I'll be adding the rest of the solutions later.
+PS: watchout if you trying to solve the challenges on csbin.io, it's kinda buggy and it might not work with some solutions.
